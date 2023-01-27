@@ -5,3 +5,5 @@ It is a project inspired by a Udemy course. Changes have been made according to 
 
 Kurs Linki: https://www.udemy.com/course/sifirdan-ileri-seviyeye-komple-java-gelistirici-kursu/
 Course Link: https://www.udemy.com/course/sifirdan-ileri-seviyeye-komple-java-gelistirici-kursu/
+
+Video Link: https://www.youtube.com/watch?v=HErd_WRIugU
