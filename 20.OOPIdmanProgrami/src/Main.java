@@ -85,6 +85,7 @@ public class Main {
         
         System.out.println("Yapmaniz Gereken Tum Hareketleri Gerceklestirdiniz!");
         System.out.println("Sagliniz Icin Sistemden Cikis Yapiliyor!");
+        System.out.println("iso was here");
         System.out.println("\n*** Cikis Yapiliyor! ***\n");
         
     }
